@@ -1,1 +1,2 @@
 Hello, merge
+The merger was completed successfully
